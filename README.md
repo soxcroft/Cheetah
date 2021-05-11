@@ -3,6 +3,6 @@ My first semester project for second year CS, which counts the spots that it can
 
 This project makes use of some of the programs in algs.jar which is used Princeton's Algorithms, 4th edition. The library can be found at: https://algs4.cs.princeton.edu/code/
 
-The project instructions were provided by Stelenbosch University.
+The project instructions were provided by Stellenbosch University.
 
 The cellular automata methods are described in 'Cellular Automata in Image Processing' by Adriana Popovici and Dan Popovici. The article can be found in Popovici.pdf.
